@@ -1,0 +1,77 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.color-de-fondo{
+    background-color: #28a745;
+}
+
+.color-de-fondo a {
+  color: #fff;
+}
+
+.color-de-fondo h1 {
+  color: #fff;
+}
+h5{
+  color: #212529;
+ }
+.navbar-brand img{
+    height: 3.3rem;
+}
+
+.spacer-nav {
+  height: 3.3rem;
+}
+
+footer img{
+    height: 2rem;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+  
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+#boton-enviar {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  background-color: #F8F9FA;
+  color: #212529;
+}
+footer p {
+  color: #707070;
+}
+main i {
+  color: #707070;
+}
+main a {
+  text-decoration: none;
+}
+
+.text-ubicacion {
+  font-size: 13px;
+}
+
+#price1 {
+  color: #707070;
+  font-size: 1rem;
+}
+
+#price2 {
+  color: #28A745;
+  font-size: 1.28rem;
+}
+#linea{
+  width: 80%;
+  margin: auto;
+  color:#707070A0;
+}
